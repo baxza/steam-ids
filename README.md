@@ -1,2 +1,1 @@
-# steam-ids
-A huge list of unclaimed steam ids (steamcommunity.com/id/YOURID) format
+## List of 4 character length Steam ids
