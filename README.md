@@ -1,1 +1,1 @@
-## List of 9 character length Steam ids
+## List of 10 character length Steam ids
